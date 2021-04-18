@@ -1,0 +1,6 @@
+.jump {
+  transition: 500ms linear;
+}
+.jump:hover {
+  transform: translateY(-20px);
+}

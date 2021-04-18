@@ -1,0 +1,9 @@
+.testimony {
+  margin-top: 5rem;
+}
+
+@media screen and (max-width: 480px) {
+  .testimony {
+    margin-top: 20rem;
+  }
+}

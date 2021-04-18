@@ -1,0 +1,14 @@
+.footer-area {
+  background-color: rgb(0, 0, 0);
+}
+
+.footer-area li {
+  padding-bottom: 5px;
+}
+.icons a {
+  color: green;
+  font-size: 2rem;
+}
+.icons a:hover {
+  color: white;
+}
